@@ -1,8 +1,10 @@
-# I'm __Morteza Heydari__ 😊
+<h1> I'm <strong>Morteza Heydari</strong> 😊 </h1>
 
 <div class="d-flex">
-    <img src="https://img.shields.io/github/followers/BlackIQ" alt="github_followers" />
+    <img src="https://img.shields.io/github/followers/MortezaHeydari97" alt="github_followers" />
 </div>
+
+
 # Skills
 - HTML5 <img alt="html_logo" src="https://github.com/MortezaHeydari97/MortezaHeydari97/blob/main/assets/images/html.png" width="20" height="20">
 - CSS3 <img alt="css_logo" src="https://github.com/MortezaHeydari97/MortezaHeydari97/blob/main/assets/images/css.png" width="20" height="20">
