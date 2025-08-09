@@ -11,15 +11,32 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=MortezaHeydari97&theme=dark&hide_border=true" alt="contribution_stats" />
 </div>
 
-<h3>Languages and Tools:</h3>
+<h2>Languages:</h2>
 	
 <div>
-	<a href="https:/typescriptlang.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+	<a href="https://www.python.org" target="_blank" title="Python Programming Language">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Programming Language Logo" width="40" height="40"/> 
 	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+	<a href="https://typescriptlang.org" target="_blank" title="Typescript Programming Language">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript Programming Language Logo" width="40" height="40"/> 
 	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript Programming Language">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript Programming Language Logo" width="40" height="40"/> 
+	</a>
+	<a href="https://www.python.org" target="_blank" title="Go Programming Language">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go Programming Language Logo" width="40" height="40"/> 
+	</a>
+	<a href="https://www.python.org" target="_blank" title="Rust Programming Language">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust Programming Language Logo" width="40" height="40"/> 
+	</a>
+ 	<a href="https://www.c-language.org" target="_blank" title="C Programming Language">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming Language Logo" width="40" height="40"/> 
+	</a>
+</div>
+
+<h2>Frameworks:</h2>
+
+<div>
 	<a href="https://reactjs.org" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
 	</a>
@@ -62,29 +79,41 @@
 	<a href="https://nodejs.org" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 	</a>
+</div>
+
+<h2>Databases:</h2>
+
+<div>
+	<a href="https://mysql.com" target="_blank" title="MySQL Database">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="40" height="40"/>
+	</a>
+	<a href="https://mongodb.com" target="_blank" title="Mongo DB">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB Logo" width="40" height="40"/>
+	</a>
+	<a href="https://redis.io" target="_blank" title="Redis Database">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" width="40" height="40"/>
+	</a>
+	<a href="https://neo4j.com/" target="_blank" title="Neo4J Database">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4J Logo" width="40" height="40"/>
+	</a>
+</div>
+
+<h2>Tools:</h2>
+
+<div>
+	<a href="https://linux.org" target="_blank" title="Linux"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/>
+	</a>
 	<a href="https://sourcetree.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/>
 	</a>
-	<a href="https://mysql.com" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-	</a>
-	<a href="https://mongodb.com" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-	</a>
-	<a href="https://redis.io" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-	</a>
 	<a href="https://docker.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-	</a>
-	<a href="https://linux.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="bootstrap" width="40" height="40"/>
 	</a>
 </div>
-
 
 <details>
 	<summary><b>⚡My Github Stats</b></summary>
