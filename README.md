@@ -67,8 +67,8 @@
 	<a href="https://nextjs.org" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
 	</a>
-	<a href="https://nestjs.com" target="_blank"> 
-		<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> 
+	<a href="https://nestjs.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/nestjs/nestjs.com/master/img/logo_text.svg" alt="Nestjs" width="100" height="100"/> 
 	</a>
 	<a href="https://nuxtjs.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> 
@@ -87,6 +87,9 @@
 	<a href="https://mysql.com" target="_blank" title="MySQL Database">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="40" height="40"/>
 	</a>
+	<a href="https://www.postgresql.org" target="_blank" title="PostgreSQL Database">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="40" height="40"/>
+	</a>
 	<a href="https://mongodb.com" target="_blank" title="Mongo DB">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB Logo" width="40" height="40"/>
 	</a>
@@ -101,7 +104,7 @@
 <h2>Tools:</h2>
 
 <div>
-	<a href="https://linux.org" target="_blank" title="Linux"> 
+	<a href="https://linux.org" target="_blank" title="Linux">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/>
 	</a>
 	<a href="https://sourcetree.com" target="_blank"> 
